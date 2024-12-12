@@ -58,12 +58,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://afrith-password-strength-checker.vercel.app/)
 
-There have been many great password strength checkers gifted to this world; however, I am responsible for this one. On impulse, I wanted to quickly create something in React, using React Context, styled with Tailwind CSS and tested using Vitest that could be added to my presence on Github. This simple demonstration can be copied and enhanced, used by anyone, anytime.
+There have been many great password strength checkers gifted to this world; however, I am responsible for this one. On an impulse, I wanted to quickly create something in React, using React Context, styled with Tailwind CSS and tested using Vitest that could be added to my presence on Github. This simple demonstration can be copied and enhanced, used by anyone, anytime.
 
 Here's why:
 
 - Your time can instead be spent focused on creating something amazing like a complex application that solves a problem, helps others, saves the world...
-- You shouldn't be doing the same tasks over and over like creating a password strength checker from scratch. Unless you have the same impulse to build your own and demonstrated your React, React Context, Tailwind CSS and Vitest skills.
+- You shouldn't be doing the same tasks over and over like creating a password strength checker from scratch. That is unless you have the same impulse to build your own and demonstrate your React, React Context, Tailwind CSS and Vitest skills to anyone who cares.
 
 Keep in mind:
 
